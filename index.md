@@ -4,3 +4,8 @@
 #### Subheader Level 4
 ##### Subheader Level 5
 ###### Subheader Level 6
+
+
+# Image of Yaktocat
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
